@@ -1,0 +1,3 @@
+- **Użycie:** Konwertuje dane o książkach z różnych formatów (np. JSON, CSV) i umożliwa na nich pracę.
+- **Uzasadnienie:** Umożliwienie odczytania danych z różnych formatów.
+- **Poprawa:** Zwiększa kompatybilność systemu z zewnętrznymi danymi.
