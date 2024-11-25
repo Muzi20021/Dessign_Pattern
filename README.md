@@ -1,11 +1,11 @@
-# Wzorce projektowe w Pythonie
+# Design Patterns in Python
 
-To repozytorium demonstruje zastosowanie **wzorców projektowych** w języku Python.  
-Wzorce projektowe to sprawdzone rozwiązania dla często spotykanych problemów w projektowaniu oprogramowania. Dzięki nim kod staje się bardziej **skalowalny**, **łatwiejszy w utrzymaniu** i **ponownie używalny**.
+This repository demonstrates the use of **design patterns** in Python.  
+Design patterns are proven solutions to common software design problems. They make the code more **scalable**, **maintainable**, and **reusable**.
 
-## Struktura repozytorium
+## Repository Structure
 
-- Każda gałąź tego repozytorium zawiera **implementację jednego wzorca projektowego**, w tym:
+- Each branch of this repository contains the **implementation of a single design pattern**, including:
   - Adapter
   - Factory
   - Facade
