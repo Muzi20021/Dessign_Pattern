@@ -1,0 +1,3 @@
+- **Użycie:** utworzenie różnego typu użytkowników z uprawnieniami
+- **Uzasadnienie:** łatwe dodawanie nowych typów użytkowników bez modyfikacji istniejącego kodu.
+- **Poprawa:** uproszczenie tworzenia obiektów
