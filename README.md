@@ -1,3 +1,3 @@
 - **Użycie:** stworzenie uproszczonego interfejsu do zarządzania książkami i użytkownikami.
 - **Uzasadnienie:** ułatwienie czytelności kodu
-- **Poprawa:** Ukrycie szczegółów implementacji
+- **Poprawa:** ukrycie szczegółów implementacji
